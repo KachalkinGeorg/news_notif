@@ -1,0 +1,14 @@
+ID: news_notif
+Name: Уведомление о модерации
+Version: 0.1
+Acts: ppages, index
+File: news_notif.php
+Config: config.php
+Type: plugin
+Title: Уведомление о модерации
+Description: Уведомления о новых новостях на сайте
+Author: KachalkinGeorg
+Author_URI: 
+Icon: <i class='fa fa-comment-o fa-2x'></i>
+preinstall: no
+Information: Информирование администратора о новых новостях, которые требуют модерации
